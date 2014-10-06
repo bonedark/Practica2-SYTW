@@ -30,6 +30,10 @@ Para ejecutar la app debemos seguir los siguientes pasos
 2. Luego accederemos en la dirección [http://localhost:4567/](http://localhost:4567/)
 
 ------------
+### Travis
+-----------
+Para ejecutar la app debemos seguir los siguientes pasos
 
+1. Acceso a Travis en la dirección [https://travis-ci.org/bonedark/Practica2-SYTW/builds/37206717](https://travis-ci.org/bonedark/Practica2-SYTW/builds/37206717)
 
 ##### Práctica Realizada por Daniel Nicolás Fernández del Castillo Salazar y Jonathan Barrera Delgado
