@@ -32,7 +32,6 @@ Para ejecutar la app debemos seguir los siguientes pasos
 ------------
 ### Travis
 -----------
-Para ejecutar la app debemos seguir los siguientes pasos
 
 1. Acceso a Travis en la dirección [https://travis-ci.org/bonedark/Practica2-SYTW/builds/37206717](https://travis-ci.org/bonedark/Practica2-SYTW/builds/37206717)
 
